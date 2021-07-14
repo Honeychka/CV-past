@@ -11,7 +11,8 @@ I learned **CSS, HTML and JS** on basic level. I work with GitHub for, don't try
 
 ### Examples of code *
 ```
-<Hello, world!>
+<p>Hello, world!</p>
+
 ```
 ### Work experience **
 Later...
